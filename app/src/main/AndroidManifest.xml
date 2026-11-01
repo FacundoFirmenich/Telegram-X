@@ -127,7 +127,7 @@
     android:fullBackupContent="false"
     android:hardwareAccelerated="true"
     android:icon="@mipmap/app_launcher"
-    android:label="@string/AppName"
+    android:label="@string/frontier_app_label"
     android:largeHeap="true"
     android:roundIcon="@mipmap/app_launcher_round"
     android:supportsRtl="true"
