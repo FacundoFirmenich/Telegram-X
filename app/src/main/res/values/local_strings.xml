@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <!-- DO NOT SYNC WITH TRANSLATIONS PLATFORM -->
+  <string name="frontier_app_label">Frontier Messenger</string>
   <string name="UseExplicitDice">Use explicit dice</string>
   <string name="suggested_language_code" />
   <string name="suggested_language_code_base" />
