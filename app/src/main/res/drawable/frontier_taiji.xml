@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Exact counterclockwise logo rotation: 88.88 degrees. -->
+    <group android:rotation="-88.88" android:pivotX="54" android:pivotY="54">
+        <path android:fillColor="#FCFEFF"
+              android:pathData="M54,16 A38,38 0,1 1,54 92 A38,38 0,1 1,54 16 Z"/>
+        <path android:fillColor="#1155AD"
+              android:pathData="M54,16 A38,38 0,0 0,54 92 A19,19 0,0 0,54 54 A19,19 0,0 1,54 16 Z"/>
+        <path android:fillColor="#FCFEFF"
+              android:pathData="M60,35 A6,6 0,1 1,48 35 A6,6 0,1 1,60 35 Z"/>
+        <path android:fillColor="#1155AD"
+              android:pathData="M60,73 A6,6 0,1 1,48 73 A6,6 0,1 1,60 73 Z"/>
+        <path android:strokeColor="#1155AD" android:strokeWidth="1.55" android:strokeLineCap="round"
+              android:pathData="M49,35 L59,35 M49.67,32.5 L58.33,37.5 M49.67,37.5 L58.33,32.5"/>
+        <path android:strokeColor="#FCFEFF" android:strokeWidth="1.55" android:strokeLineCap="round"
+              android:pathData="M49,73 L59,73 M49.67,70.5 L58.33,75.5 M49.67,75.5 L58.33,70.5"/>
+    </group>
+</vector>
